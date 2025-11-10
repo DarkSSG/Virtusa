@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 Hi
+=======
+A
+B
+C
+D
+E
+F
+G
+H
+>>>>>>> ddf33ddbeba1cc5b291fb283c6b3e88da0cf3416
